@@ -19,8 +19,7 @@ A BitBash product for structured Bluesky data (posts & profiles)
 ---
 
 ## Introduction
-**Bluesky Scraper** extracts public Bluesky data (posts & profiles) into clean **CSV/JSON** for research, social listening, and growth analytics.  
-White-hat by design — no CAPTCHA/anti-bot bypass.
+**Bluesky Scraper** extracts public Bluesky data (posts & profiles) into clean **CSV/JSON** for research, social listening, and growth analytics. White-hat by design, no CAPTCHA/anti-bot bypass.
 
 ---
 
