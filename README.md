@@ -182,3 +182,10 @@ Questions? Need a custom scraper or integrations?
 
 MIT © BitBash
 
+
+---
+
+<p align="">
+  <img src="footer.png" height="250" width="1536">
+</p>
+
