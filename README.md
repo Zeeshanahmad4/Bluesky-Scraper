@@ -168,6 +168,16 @@ Don’t collect sensitive or private data. <br>
 
 --- 
 
+## Contact Us
+
+Questions? Need a custom scraper or integrations?
+
+ Website: https://www.bitbash.dev/ <br>
+ Discord: https://discord.gg/zX7frTbx  <br>
+ Telegram: https://t.me/devpilot1  <br>
+
+---
+
 ## License
 
 MIT © BitBash
