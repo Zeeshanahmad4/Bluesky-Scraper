@@ -23,7 +23,7 @@ A BitBash product for structured Bluesky data (posts & profiles)
 
 ---
 
-<img width="1536" height="300" alt="Image" src="https://github.com/user-attachments/assets/e011168d-17c9-458f-bc5f-cfcf54a53c18" />
+<img width="1536" height="400" alt="Image" src="https://github.com/user-attachments/assets/e011168d-17c9-458f-bc5f-cfcf54a53c18" />
 
 --- 
 
