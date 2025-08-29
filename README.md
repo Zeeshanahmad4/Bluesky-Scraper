@@ -150,7 +150,7 @@ examples/bluesky_sample.json
 Q: Does this bypass protections? <br>
 A: No, strictly white-hat.
 
-Q: What about private data? 
+Q: What about private data?<br> 
 A: Only public pages/feeds are targeted.
 
 Q: Rate limits?<br>
