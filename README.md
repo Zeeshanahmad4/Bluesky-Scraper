@@ -165,12 +165,6 @@ Don’t collect sensitive or private data. <br>
 
 --- 
 
-## Maintainers & Contact
-
-BitBash / Appilot
-Website · Discord · Telegram → see badges above.
----
-
 ## License
 
 MIT © BitBash
