@@ -1,4 +1,4 @@
-# <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/d336870a-de7d-441f-9ab6-b097405f122a" /> Bluesky Scraper
+# <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/d336870a-de7d-441f-9ab6-b097405f122a" /> Bluesky Scraper
 
 <p align="center">
 A BitBash product for structured Bluesky data (posts & profiles)
