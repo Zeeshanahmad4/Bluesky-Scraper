@@ -140,7 +140,7 @@ node scripts/run_bluesky.js --handle @bitbash.dev --limit 200 --out out/bluesky_
 ---
 ## Examples
 
-examples/bluesky_sample.csv
+examples/bluesky_sample.csv <br>
 examples/bluesky_sample.json
 
 ---
@@ -150,10 +150,10 @@ examples/bluesky_sample.json
 Q: Does this bypass protections? <br>
 A: No, strictly white-hat.
 
-Q: What about private data? <br>  
+Q: What about private data?<br>  
 A: Only public pages/feeds are targeted.
 
-Q: Rate limits? <br>
+Q: Rate limits?<br>
 A: Throughput depends on your infra/proxies and pacing.
 
 ---
