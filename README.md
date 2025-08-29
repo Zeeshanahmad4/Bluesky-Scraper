@@ -73,7 +73,7 @@ This scraper normalizes public data into a consistent schema you can plug into y
 ---
 
 ## Architecture
-![architecture](./assets/bluesky-architecture.png)
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/25ee68a4-ae08-4fc2-b2bb-d7118d7e810d" />
 
 **High-Level Flow**
 1. Input (handle / feed URL)  
