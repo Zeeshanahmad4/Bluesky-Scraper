@@ -186,6 +186,6 @@ MIT © BitBash
 ---
 
 <p align="">
-  <img src="footer.png" height="250" width="1536">
+<img width="949" height="417" alt="Image" src="https://github.com/user-attachments/assets/5b43909c-dc2b-45cb-ab08-adce4c44f37a" />
 </p>
 
