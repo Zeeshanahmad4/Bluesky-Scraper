@@ -135,3 +135,44 @@ node scripts/run_bluesky.js --handle @bitbash.dev --limit 200 --out out/bluesky_
 --include-media     include media URLs
 --include-links     include external links
 --json              output JSON (default CSV)
+
+```
+---
+## Examples
+
+examples/bluesky_sample.csv
+examples/bluesky_sample.json
+
+---
+
+## FAQ
+
+Q: Does this bypass protections? <br>
+A: No, strictly white-hat.
+
+Q: What about private data? <br>  
+A: Only public pages/feeds are targeted.
+
+Q: Rate limits? <br>
+A: Throughput depends on your infra/proxies and pacing.
+
+---
+
+## Security & Responsible Use
+
+Respect platform policies and local laws.
+Add delays; avoid abusive traffic.
+Don’t collect sensitive or private data.
+
+--- 
+
+## Maintainers & Contact
+
+BitBash / Appilot
+Website · Discord · Telegram → see badges above.
+---
+
+## License
+
+MIT © BitBash
+
