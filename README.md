@@ -166,8 +166,7 @@ Questions? Need a custom scraper or integrations?
 ---
 
 ## License
-
-MIT © BitBash
+MIT — see [LICENSE](./LICENSE)
 
 
 ---
