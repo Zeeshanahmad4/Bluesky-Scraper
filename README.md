@@ -97,13 +97,7 @@ A: Throughput depends on your infra/proxies and pacing.
 
 ---
 
-## Security & Responsible Use
 
-Respect platform policies and local laws. <br>
-Add delays; avoid abusive traffic. <br>
-Don’t collect sensitive or private data. <br>
-
---- 
 
 ## License
 MIT — see [LICENSE](./LICENSE)
