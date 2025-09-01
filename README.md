@@ -126,7 +126,3 @@ Questions? Need a custom scraper or integrations?
 
 ---
 
-<p align="">
-<img width="800" height="300" alt="Image" src="https://github.com/user-attachments/assets/5b43909c-dc2b-45cb-ab08-adce4c44f37a" />
-</p>
-
