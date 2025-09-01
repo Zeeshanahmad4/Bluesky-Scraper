@@ -84,56 +84,6 @@ This scraper normalizes public data into a consistent schema you can plug into y
 
 ---
 
-## Data Schema
-
-### Fields (Posts)
-| Field | Type | Description | Example |
-|---|---|---|---|
-| post_id | string | Unique post id | `3kxy…` |
-| text | string | Post text | `Launching…` |
-| created_at | string (ISO) | Post timestamp | `2025-08-01T09:15:00Z` |
-| like_count | int | Likes | 42 |
-| repost_count | int | Reposts | 7 |
-| reply_count | int | Replies | 5 |
-| media_urls | string[] | Image/video URLs | `["https://..."]` |
-| external_urls | string[] | Links in post | `["https://..."]` |
-| language | string | Detected language | `en` |
-| author_handle | string | `@handle` | `@bitbash.dev` |
-| author_did | string | Bluesky DID | `did:plc:...` |
-| author_display_name | string | Profile name | `BitBash` |
-| author_followers | int | Followers count | 1204 |
-| post_url | string | Canonical URL | `https://bsky.app/profile/.../post/...` |
-
-**JSON Schema:** `./schema/bluesky_post.schema.json`
-
----
-
-## Quick Start
-
-```bash
-# 1) Install
-pnpm i   # or npm i / yarn
-
-# 2) Run (example)
-node scripts/run_bluesky.js --handle @bitbash.dev --limit 200 --out out/bluesky_posts.csv
-
-# Options
---handle            @handle to scrape
---feed              feed URL to scrape
---limit             max posts (default 200)
---include-media     include media URLs
---include-links     include external links
---json              output JSON (default CSV)
-
-```
----
-## Examples
-
-examples/bluesky_sample.csv <br>
-examples/bluesky_sample.json
-
----
-
 ## FAQ
 
 Q: Does this bypass protections? <br>
