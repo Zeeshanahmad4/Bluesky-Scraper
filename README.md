@@ -1,13 +1,13 @@
 # <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/d336870a-de7d-441f-9ab6-b097405f122a" /> Bluesky Scraper
 
+> A lightweight scraper designed to collect and organize public data from Bluesky for research, analytics, and automation.
+
 <p align="center">
-A BitBash product for structured Bluesky data (posts & profiles)
+A  product for structured Bluesky data scraping (posts & profiles)
 </p>
 
 <p align="center">
-  <a href="https://www.bitbash.dev/">
-    <img alt="BitBash × Bluesky Scraper" src="https://img.shields.io/badge/Built%20by-BitBash-000000.svg?style=for-the-badge">
-  </a>
+
   <a href="https://discord.gg/zX7frTbx">
     <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Appilot-5865F2?logo=discord&logoColor=white&style=for-the-badge">
   </a>
