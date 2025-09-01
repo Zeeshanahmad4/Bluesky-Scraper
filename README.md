@@ -31,16 +31,15 @@ A  product for structured Bluesky data scraping (posts & profiles)
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Why This Matters](#why-this-matters)
-4. [Architecture](#architecture)
-5. [Workflow](#workflow)
-6. [Data Schema](#data-schema)
-7. [Quick Start](#quick-start)
-8. [Examples](#examples)
-9. [FAQ](#faq)
-10. [Security & Responsible Use](#security--responsible-use)
-11. [Maintainers & Contact](#maintainers--contact)
-12. [License](#license)
-13. [Footer](#footer)
+4. [Workflow](#workflow)
+5. [Data Schema](#data-schema)
+6. [Quick Start](#quick-start)
+7. [Examples](#examples)
+8. [FAQ](#faq)
+9. [Security & Responsible Use](#security--responsible-use)
+10. [Maintainers & Contact](#maintainers--contact)
+11. [License](#license)
+12. [Footer](#footer)
 
 ---
 
@@ -69,18 +68,6 @@ This scraper normalizes public data into a consistent schema you can plug into y
 - Rising creator & community activity → **social listening** and **competitor tracking** opportunities.  
 - Researchers need **structured public data** without manual copy/paste.  
 - Brands & agencies want **trend discovery** and **influencer mapping**.
-
----
-
-## Architecture
-
-**High-Level Flow**
-1. Input (handle / feed URL)  
-2. Fetch public pages/feeds  
-3. Extract & normalize to schema  
-4. Validate fields  
-5. Export (CSV/JSON)  
-6. Optional enrichment (keywords/sentiment)
 
 ---
 
