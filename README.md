@@ -23,7 +23,7 @@ A  product for structured Bluesky data scraping (posts & profiles)
 
 ---
 
-<img width="1536" height="400" alt="Image" src="https://github.com/user-attachments/assets/e011168d-17c9-458f-bc5f-cfcf54a53c18" />
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/e011168d-17c9-458f-bc5f-cfcf54a53c18" />
 
 --- 
 
