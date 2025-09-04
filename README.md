@@ -43,6 +43,11 @@ A  product for structured Bluesky data scraping (posts & profiles)
 
 ---
 
+## Try Free Now:
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/766dd52b-2274-45e8-a390-5c91c4294b5c" />
+
+---
+
 ## Overview
 Bluesky is growing fast, but its data is fragmented across profiles, threads, and feeds.  
 This scraper normalizes public data into a consistent schema you can plug into your analytics stack.
